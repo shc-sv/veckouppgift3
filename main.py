@@ -1,19 +1,9 @@
-from Q1 import uppgift1
-from Q1 import uppgift2
-from Q1 import uppgift3
-from Q1 import uppgift4
-from Q1 import uppgift5
-from Q1 import uppgift6
-from Q2 import q2_1a
-from Q2 import q2_1b
-from Q2 import q2_1c
-from Q2 import q2_2
-from Q2 import q2_3
+from Q1 import uppgift1, uppgift2, uppgift3, uppgift4, uppgift5, uppgift6
+from Q2 import q2_1a, q2_1b, q2_1c, q2_2, q2_3
+from Q3 import q3_version1, q3_version2_3
 
 
 if __name__ == '__main__':
-    # '''
-
     print("")
     print("Q1: uppgift 1")
     uppgift1()
@@ -39,14 +29,19 @@ if __name__ == '__main__':
     print("")
     print("Q3:")
 
+    q3_version1()
+    q3_version2_3()
 
     print("")
     print("Q4:")
 
-    # '''
+
 
     print("")
     print("Q5:")
 
     print("")
     print("Q6:")
+
+#'''
+    #'''
