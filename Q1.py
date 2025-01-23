@@ -1,4 +1,5 @@
 # Veckouppgift 3
+# Q1: Diskutera i grupp
 
 # Q1: 1)
 def uppgift1():
