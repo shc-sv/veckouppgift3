@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q2 done">
-      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
+    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q3 done">
+      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -50,6 +50,7 @@
     "Python.Q1.executor": "Run",
     "Python.Q2.executor": "Run",
     "Python.Q3.executor": "Run",
+    "Python.Q4.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -86,12 +87,20 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1737628816596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Veckouppgift 3: Q3 done">
+      <option name="closed" value="true" />
+      <created>1737638245732</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1737638245732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Veckouppgift 3: Q1 done" />
     <MESSAGE value="Veckouppgift 3: Q2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: Q2 done" />
+    <MESSAGE value="Veckouppgift 3: Q3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: Q3 done" />
   </component>
 </project>
