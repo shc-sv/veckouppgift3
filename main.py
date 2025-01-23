@@ -29,8 +29,8 @@ if __name__ == '__main__':
     print("")
     print("Q3:")
 
-    #q3_version1()
-    #q3_version2_3()
+    q3_version1()
+    q3_version2_3()
 
     print("")
     print("Q4:")
