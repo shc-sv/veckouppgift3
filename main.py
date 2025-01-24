@@ -3,9 +3,11 @@ from Q2 import q2_1a, q2_1b, q2_1c, q2_2, q2_3
 from Q3 import q3_version1, q3_version2_3
 from Q4 import q4
 from Q5 import q5
+from Q6 import q6
 
 if __name__ == '__main__':
     print("")
+
     print("Q1: uppgift 1")
     uppgift1()
     print("Q1: uppgift 2")
@@ -35,14 +37,14 @@ if __name__ == '__main__':
 
     print("")
     print("Q4:")
-    q4()
+    #q4()
 
     print("")
     print("Q5:")
-    q5()
+    #q5()
 
     print("")
     print("Q6:")
-
+    q6()
 #'''
     #'''

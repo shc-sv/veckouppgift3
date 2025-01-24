@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q4 done">
-      <change afterPath="$PROJECT_DIR$/Q5.py" afterDir="false" />
+    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q6 done">
+      <change afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -52,6 +52,7 @@
     "Python.Q3.executor": "Run",
     "Python.Q4.executor": "Run",
     "Python.Q5.executor": "Run",
+    "Python.Q6.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -109,7 +110,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1737665470654</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Veckouppgift 3: Q5 done">
+      <option name="closed" value="true" />
+      <created>1737723991417</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1737723991417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +125,8 @@
     <MESSAGE value="Veckouppgift 3: Q2 done" />
     <MESSAGE value="Veckouppgift 3: Q3 done" />
     <MESSAGE value="Veckouppgift 3: Q4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: Q4 done" />
+    <MESSAGE value="Veckouppgift 3: Q5 done" />
+    <MESSAGE value="Veckouppgift 3: Q6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: Q6 done" />
   </component>
 </project>
