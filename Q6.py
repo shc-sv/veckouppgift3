@@ -4,7 +4,6 @@
 def q6():
     todo_list = []
     finished_list =[]
-
     print("** Todo list extravaganza **")
     print("0. Avsluta")
     print("1. Se innehållet i din lista")

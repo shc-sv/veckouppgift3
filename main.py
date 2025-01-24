@@ -32,19 +32,17 @@ if __name__ == '__main__':
     print("")
     print("Q3:")
 
-    #q3_version1()
-    #q3_version2_3()
+    q3_version1()
+    q3_version2_3()
 
     print("")
     print("Q4:")
-    #q4()
+    q4()
 
     print("")
     print("Q5:")
-    #q5()
+    q5()
 
     print("")
     print("Q6:")
     q6()
-#'''
-    #'''

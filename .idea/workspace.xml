@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q6 done">
-      <change afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1737723991417</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Veckouppgift 3: Q6 done">
+      <option name="closed" value="true" />
+      <created>1737736970496</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1737736970496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
