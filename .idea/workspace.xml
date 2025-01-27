@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: Q6 done">
+    <list default="true" id="96021d7e-b6b8-4ea1-a4ce-a15f143cd8ca" name="Changes" comment="Veckouppgift 3: final version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,14 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1737736970496</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Veckouppgift 3: final version">
+      <option name="closed" value="true" />
+      <created>1737737720734</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1737737720734</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +142,7 @@
     <MESSAGE value="Veckouppgift 3: Q4 done" />
     <MESSAGE value="Veckouppgift 3: Q5 done" />
     <MESSAGE value="Veckouppgift 3: Q6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: Q6 done" />
+    <MESSAGE value="Veckouppgift 3: final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Veckouppgift 3: final version" />
   </component>
 </project>

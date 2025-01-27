@@ -4,17 +4,18 @@
 # Version 1
 def q3_version1():
     print("Välkommen till Kvittokompis! Avsluta genom att skriva: quit eller avsluta")
-    sum = 0
+    summa = 0
     amount = input("Skriv in ett belopp: ")
-    while amount not in ("quit", "avsluta"):
+    while amount.lower() not in ("quit", "avsluta"):
+        # amount.casefold() är mer säkrare än .lower()
         try:
             amount = int(amount)
-            sum += int(amount)
+            summa += int(amount)
         except ValueError:
             print(f"{amount} är inte ett tal.")
 
         amount = input("Skriv in ett belopp: ")
-    print(f"Det blir {sum} kr totalt. Välkommen åter!")
+    print(f"Det blir {summa} kr totalt. Välkommen åter!")
 
 def q3_version2_3():
     # Version 1

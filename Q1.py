@@ -10,6 +10,8 @@ def uppgift1():
         index +=2
 # Q1: 2)
 def uppgift2():
+    # range(3): 0, 1, 2
+    # range(star, stop, steg). range(3, 6) = 3, 4, 5 (6 är inte inkluderade)
     for i in range(10):
         if i == 5:
             print("")
